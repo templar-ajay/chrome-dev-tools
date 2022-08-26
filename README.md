@@ -6,3 +6,6 @@
 4. ctrl + shift + c inspects the element on mouse hover
 5. ctrl + shift + j opens console or last devtools instance
 6. ctrl + shift + i opens new instance of devtools
+7. ctrl + p in source tab in devtools to search for files
+8. shift + reload / shift + ctrl + r
+9. 
